@@ -19,7 +19,7 @@ Once you have created all the tables, populate each table with at least 5 record
 
 ## ERD Diagram
 
-![ERD Diagram](car_dealership_erd.png)
+![ERD Diagram](dealership_erd.png)
 
 ## ERD Link
 
