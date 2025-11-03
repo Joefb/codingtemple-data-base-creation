@@ -16,3 +16,11 @@ As a group (if you like), create an ERD for a car dealership. The dealership sel
 Once you have designed the ERD; **SOLO \-** Create a SQLite database, and use DDL (Data Definition Language) to create the Tables in accordance with your ERD.
 
 Once you have created all the tables, populate each table with at least 5 records.  
+
+## ERD Diagram
+
+![ERD Diagram](car_dealership_erd.png)
+
+## ERD Link
+
+[ERD Link](https://lucid.app/lucidchart/b143e91f-78a5-4e6a-b9ab-7f151dd347cd/edit?invitationId=inv_abe098f5-b87e-43d7-98b3-303005c1bd19)
